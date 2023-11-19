@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">Network engineer who became passionate with development & systems design</h3>
+<h3 align="center">Network engineer who ended up passionate with development & systems design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliyousifomar&label=Profile%20views&color=0e75b6&style=flat" alt="aliyousifomar" /> </p>
 
